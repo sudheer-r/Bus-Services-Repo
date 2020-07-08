@@ -24,7 +24,7 @@
 							<spring:option value="select">select</spring:option>
 							<spring:options items="${destinations}" />
 						</spring:select></td>
-					<td><spring:errors path="destination" style="color:red"></spring:errors></td>
+					<td><spring:errors path="destination" style="color:green"></spring:errors></td>
 				</tr>
 				<tr>
 					<td>Journey Date</td>

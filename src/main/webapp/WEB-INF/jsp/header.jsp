@@ -8,6 +8,6 @@
 <script type="text/javascript" src="<c:url value='/resources/js/commons.js'/>" ></script>
 </head>
 <body>
-	<div id="headingStyle">DSR Bus</div>
+	<div id="headingStyle">DSR Bus services</div>
 </body>
 </html>
